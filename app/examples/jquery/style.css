@@ -1,0 +1,10 @@
+html, body {
+  font-family: arial;
+  padding: 15px;
+}
+
+.important {
+  font-size: 1.4em;
+  text-decoration: underline;
+  font-weight: bold;
+}
